@@ -46,7 +46,12 @@ window.PORTFOLIO = {
           "title": "Sucrose: Normal attacks",
           "note": "Genshin-inspired attack set.",
           "url": "https://youtu.be/tXnPTh3HiXI?si=X-YzNExiCwSUfkjF"
-        }
+        },
+        {
+          "title": "Noro — Tokyo Ghoul Combat Showcase",
+          "note": "Character-specific combat showcase featuring Noro from Tokyo Ghoul.",
+          "url": "https://youtu.be/YKuMIgnAq3A"
+        } 
       ]
     },
     {
