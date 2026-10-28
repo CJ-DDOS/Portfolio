@@ -51,7 +51,7 @@ window.PORTFOLIO = {
           "title": "Noro — Tokyo Ghoul Combat Showcase",
           "note": "Character-specific combat showcase featuring Noro from Tokyo Ghoul.",
           "url": "https://youtu.be/YKuMIgnAq3A"
-        } 
+        }
       ]
     },
     {
@@ -73,6 +73,11 @@ window.PORTFOLIO = {
           "title": "Flying system, Aetherfall-style",
           "note": "Recreation of a battlegrounds flight feel.",
           "url": "https://youtu.be/RRA7Jovlkkc?si=-LgipM7MjDNNv1jf"
+        },
+        {
+          "title": "Jetpack flight system",
+          "note": "Path-following tilt, banking, steady camera pivot and engine FX.",
+          "url": "https://medal.tv/games/roblox-studio/clips/nOtheG05vJ6Oyk98t?invite=cr-MSxMZDEsNDY5NDYyMDQ5"
         }
       ]
     },
